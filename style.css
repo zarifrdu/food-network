@@ -1,0 +1,123 @@
+body {
+    font-family: 'Montserrat', sans-serif;
+    margin: 0;
+}
+
+h1 {
+   
+    font-size: 60px;
+  
+}
+span {
+    color:goldenrod;
+}
+.flex-type {
+    display: flex;
+    margin-bottom: 100px;
+
+}
+.div-size {
+    width: 50%;
+    padding-left: 50px;
+    padding-right: 50px;
+    text-align: center;
+  
+}
+.div-size img {
+    width: 80%;
+    
+
+}
+p {
+    font-weight: 800;
+    text-align: center;
+}
+.button {
+    font-weight: 800;
+    text-decoration: none;
+    background-color: goldenrod;
+    padding: 10px 40px;
+    color: black;
+    border-radius: 6px;
+}
+.section-first {
+    background-image: url(images/7.png);
+    background-repeat: no-repeat;
+}
+h3 {
+   text-align: justify;
+}
+.section-second {
+    background-image: url(images/Group\ 8450.png);
+    background-repeat: none;
+    background-position: bottom;
+}
+#box-first {
+    border-width: 7px solid;
+    border-image: linear-gradient(blue,cyan);
+    border-image-slice: 1;
+}
+.box-effect {
+    box-shadow: chocolate 10px 10px 40px;
+    width: 40%;
+    margin-left: 5%;
+    margin-right: 5%;
+    padding-left: 10px;
+    border-radius: 10px;
+}
+.image-size {
+    width: 100%;
+    text-align: center;
+    border-radius: 10px;
+}
+h2 {
+    text-align: center;
+
+}
+.section-third {
+    
+       background-image: url(images/7.png);
+        background-repeat: no-repeat;
+        text-align: center;
+}
+.fa {  
+    padding: 20px;  
+  text-align: center;  
+    margin: 5px 2px;  
+    font-size: 14px;  
+    width: 50px;  
+  }  
+  .fa-facebook {  
+    background: #3B5998;  
+    color: white;  
+    text-decoration: none;
+    font-weight: bold;
+  }  
+  .fa-twitter {  
+    background: #55ACEE;  
+    color: white;  
+    text-decoration: none;
+    font-weight: bold;
+  }  
+  .fa-pinterest {  
+    background: #cb2027;  
+    color: white; 
+    text-decoration: none;
+    font-weight: bold;
+  }  
+  .fa-linkedin {  
+    background: #007bb5;  
+    color: white;  
+    text-decoration: none;
+    font-weight: bold;
+  }  
+  .fa-instagram {  
+    background: #125688;  
+    color: white; 
+    text-decoration: none;
+    font-weight: bold;
+  }  
+  #social {
+      text-align: center;
+  }
+ 
